@@ -41,6 +41,21 @@ IT Infra       Cloud          AWS           Infra Skills
                Automation     Python/Bash/PS
 ```
 
+Who am I?
+⬇️
+Computer Engineer + IT Infrastructure
+
+What do I know?
+⬇️
+Systems + Networks + Cloud + Security + Automation
+
+What tools?
+⬇️
+Windows + Linux + AWS + Docker + Python/Bash/PowerShell
+
+Why me?
+⬇️
+Developer mindset + Infrastructure skills
 
 ---
 For an **IT Specialist / IT Support Specialist / System Administrator Junior** interview, these are the **top 20 most common technical questions with professional answers**. They cover the areas interviewers usually focus on: **Windows, Networking, Troubleshooting, Security, Cloud, and Infrastructure**.
