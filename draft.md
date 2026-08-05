@@ -1,3 +1,30 @@
+
+```mermaid
+flowchart TD
+    A[Who am I?] --> B[Computer Engineer]
+    A --> C[IT Infrastructure]
+
+    D[What do I know?] --> E[System Administration]
+    D --> F[Networking]
+    D --> G[Cloud]
+    D --> H[Cybersecurity]
+    D --> I[Automation]
+
+    J[What tools?] --> K[Windows]
+    J --> L[Linux / WSL]
+    J --> M[AWS]
+    J --> N[Docker]
+    J --> O[Python + Bash + PowerShell]
+
+    P[Why me?] --> Q[Developer Mindset]
+    P --> R[Infrastructure Skills]
+
+    S[My Professional Profile] --> A
+    S --> D
+    S --> J
+    S --> P
+```
+---
 For your CV and **self-introduction in IT interviews**, I recommend grouping your skills into **5 main professional domains** instead of listing everything. This makes you sound like an IT Specialist rather than just someone who knows many tools.
 
 Your 5 main topics should be:

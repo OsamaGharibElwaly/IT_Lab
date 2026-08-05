@@ -1,4 +1,48 @@
 
+
+```mermaid
+flowchart TD
+    A[Who am I?] --> B[Computer Engineer]
+    A --> C[IT Infrastructure]
+
+    D[What do I know?] --> E[System Administration]
+    D --> F[Networking]
+    D --> G[Cloud]
+    D --> H[Cybersecurity]
+    D --> I[Automation]
+
+    J[What tools?] --> K[Windows]
+    J --> L[Linux / WSL]
+    J --> M[AWS]
+    J --> N[Docker]
+    J --> O[Python + Bash + PowerShell]
+
+    P[Why me?] --> Q[Developer Mindset]
+    P --> R[Infrastructure Skills]
+
+    S[My Professional Profile] --> A
+    S --> D
+    S --> J
+    S --> P
+```
+
+> [Text Form]
+```text
+                 Osama Gharib
+                      |
+ ------------------------------------------------
+ |                 |              |              |
+Who am I?     What I know?   What tools?    Why me?
+ |                 |              |              |
+Computer       Systems        Windows       Developer
+Engineer       Networks       Linux         Mindset
+IT Infra       Cloud          AWS           Infra Skills
+               Security       Docker
+               Automation     Python/Bash/PS
+```
+
+
+---
 For an **IT Specialist / IT Support Specialist / System Administrator Junior** interview, these are the **top 20 most common technical questions with professional answers**. They cover the areas interviewers usually focus on: **Windows, Networking, Troubleshooting, Security, Cloud, and Infrastructure**.
 
 ---
